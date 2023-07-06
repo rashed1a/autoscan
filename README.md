@@ -12,6 +12,7 @@ and can’t take manual control but this tool gives user manual control to confi
 assessment strategi. User can use this tool to scan individual WordPress CMS for vulnerability 
 assessment. The main purpose of develop this tool is to increases user work process and reduce 
 extra time consuming in cyber security research.
+You also find me in my website https://rashedsworld.com/
 
 For using this tool you need to run some command 1st
 
