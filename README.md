@@ -14,7 +14,11 @@ assessment. The main purpose of develop this tool is to increases user work proc
 extra time consuming in cyber security research.
 
 For using this tool you need to run some command 1st
+
 => git clone https://github.com/rashed1a/autoscan.git
+
 => cd autoscan
+
 => chmod +x autoscan.sh
+
 => ./autoscan.sh
