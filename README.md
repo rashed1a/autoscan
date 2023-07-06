@@ -20,6 +20,8 @@ For using this tool you need to run some command 1st
 
 => cd autoscan
 
+=> sudo su
+
 => chmod +x autoscan.sh
 
 => ./autoscan.sh
