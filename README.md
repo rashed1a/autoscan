@@ -24,4 +24,6 @@ For using this tool you need to run some command 1st
 
 => chmod +x autoscan.sh
 
+=> python3 update_os.py
+
 => ./autoscan.sh
