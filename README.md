@@ -24,6 +24,6 @@ For using this tool you need to run some command 1st
 
 => chmod +x autoscan.sh
 
-=> python3 update_os.py  [Run the update_os.py if your machine is not updated]
+=> python3 update_os.py  [Run the update_os.py if your machine is not updated otherwise there is no need to run update_os.py]
 
 => ./autoscan.sh
