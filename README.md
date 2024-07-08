@@ -16,13 +16,11 @@ You also find me in my website https://rashedsworld.com/
 
 For using this tool you need to run some command 1st
 
-=> git clone https://github.com/rashed1a/autoscan.git
+=> sudo git clone https://github.com/rashed1a/autoscan.git
 
 => cd autoscan
 
-=> sudo su
-
-=> chmod +x autoscan.sh
+=> sudo chmod +x autoscan.sh
 
 Note: Run the update_os.py if your machine is not updated otherwise there is no need to run update_os.py
 
