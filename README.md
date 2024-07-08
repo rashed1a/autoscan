@@ -22,8 +22,8 @@ For using this tool you need to run some command 1st
 
 => sudo chmod +x autoscan.sh
 
-=> python update_os.py [To avoid backdated resource-related issues.]
+=> python update_os.py  [To avoid backdated resource-related issues.]
 
-=> python upgrade_os.py [Note: Only run upgrade_os.py if your machine is not upgraded; otherwise, there is no need to run upgrade_os.py because this process takes a long time to complete.]
+=> python upgrade_os.py   [Note: Only run upgrade_os.py if your machine is not upgraded; otherwise, there is no need to run upgrade_os.py because this process takes a long time to complete.]
 
 => ./autoscan.sh
