@@ -23,9 +23,11 @@ For using this tool you need to run some command 1st
 => sudo chmod +x autoscan.sh
 
 Note: It will update your system to avoid backdated resource-related issues.
+
 => python update_os.py
 
 Note: Only run upgrade_os.py if your machine is not upgraded; otherwise, there is no need to run upgrade_os.py because this process takes a long time to complete.
+
 => python upgrade_os.py
 
 => ./autoscan.sh
