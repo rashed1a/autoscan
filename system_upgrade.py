@@ -15,10 +15,7 @@ try:
 except subprocess.CalledProcessError as e:
     print(f"Error occurred: {e}") 
     print(f"Error output: {e.stderr}")
-
 print("Update Complete...")
-cwd = os.getcwd()
-print(f"Current directory: {cwd}")
 
 print("")
 print("Upgrading your device...")
