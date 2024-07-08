@@ -13,6 +13,6 @@ To use this tool, you need to run some commands first;
 
 => python update_os.py  [To avoid backdated resource-related issues.]
 
-=> python system_upgrade.py   [Note: Only run system_upgrade.py if your machine is not upgraded; otherwise, there is no need to run system_upgrade.py because this process takes a long time to complete.]
+=> python system_upgrade.py   [Note: Only run system_upgrade.py if you want to upgrade your system; otherwise, there is no need to run system_upgrade.py because this process takes a long time to complete.]
 
 => ./autoscan.sh
