@@ -1,0 +1,22 @@
+# Editor swap / backup
+*.swp
+*.swo
+*.bak
+*~
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Secrets
+.env
+.env.*
+
+# Scan output
+scan_app_*/
+scan_*/
+
+# OS
+.DS_Store
+Thumbs.db
